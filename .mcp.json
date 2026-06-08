@@ -1,0 +1,11 @@
+{
+  "mcpServers": {
+    "ue-mcp": {
+      "command": "npx",
+      "args": [
+        "ue-mcp",
+        "C:/Users/KRAT0S/OneDrive/Documents/Unreal Projects/PyramidRobbersV2/PyramidRobbersV2.uproject"
+      ]
+    }
+  }
+}
