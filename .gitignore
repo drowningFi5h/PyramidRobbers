@@ -30,3 +30,12 @@ Config/Windows/Windows*.ini
 .DS_Store
 Thumbs.db
 *.log
+
+# Claude Code CLI
+.claude/
+CLAUDE.md
+
+# UE-MCP
+.mcp.json
+ue-mcp.yml
+ue-mcp/
